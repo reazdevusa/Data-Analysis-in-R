@@ -1,6 +1,6 @@
 # Data Analysis in R
 
-Hands-on R projects showcasing practical data analysis skills for aspiring **Data Analysts, Engineers, and Scientists**.  
+Hands-on Data Analysis projects using 'R' showcasing practical data analysis skills for aspiring **Data Analysts, Engineers, and Scientists**.  
 
 ## 🚀 What’s Inside
 - **Google Data Analytics Projects:** Exercises in data cleaning, wrangling, visualization, and insights.  
